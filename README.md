@@ -1,4 +1,8 @@
 # financial-machine-learning-regulation
+
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3371902
+
+
 A look at regulatory challenges and recommendation in the age of AI. Investigating topics like monopoly formation, machine learning auditability, bias mitigation strategies and automated regulatory monitoring. 
 
 
